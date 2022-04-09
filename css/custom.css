@@ -1,0 +1,61 @@
+@charset "UTF-8";
+.nav-item {
+	font-size: 20px;
+	padding: 20px;
+}
+a {
+	color: #57605B;
+}
+a:hover {
+	color: #0EC156;
+}
+h1 {
+	text-align: center;
+}
+footer {
+	background-color: #57605B;
+	color: white;
+	margin: none;
+	padding: 10px;
+	width: 100%;
+	bottom: 0;
+}
+.container {
+	padding: 10px;
+}
+.jumbotron {
+	justify-content: center;
+	text-align: center;
+ 	padding: 20px;
+}
+.navbar {
+	background-color: white;
+	top: 0;
+	width: 100%;
+	position: fixed;
+}
+.container-fluid {
+	font-family: 'Hind Siliguri', sans-serif;
+}
+.card {
+	text-align: center;
+}
+.btn-outline-primary {
+	color: #57605B;
+	border-color: #57605B;
+}
+.btn-outline-primary:hover {
+	background-color: #0EC156;
+	border-color: #0EC156;
+}
+.active {
+	color: black;
+	text-decoration-color: black;
+	text-underline-position: under;
+}
+.card {
+	border: none;
+}
+p {
+	padding-top: 15px;
+}
